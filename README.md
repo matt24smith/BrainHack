@@ -1,4 +1,4 @@
-#SURGE Hackathon Event 
+# SURGE Hackathon Event 
 
 A demonstration of reading EEG brainwave data, and processing for real-world applications. 
 This project is a short proof-of-concept for processing and classifying motor cortex activation response based on EEG sensor data in real time, and applying it for therapeutic stroke rehabilitation. 
