@@ -7,9 +7,9 @@ The classifier labels are intended to be used for auditory feedback based on if 
 
 ## Authors
 
-Lindsey Power
-Matthew Smith
-Ming Scott
-Sanket Kumar Singh
-Ryan Amaral
-Elizabeth Coish
+    Lindsey Power
+    Matthew Smith
+    Ming Scott
+    Sanket Kumar Singh
+    Ryan Amaral
+    Elizabeth Coish
